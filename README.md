@@ -43,4 +43,7 @@ Getting Started
 - Conflict: For example, multiple places in the code tries to update the entity with different, conflicting, values such as the same primary key.
 - There is no convenience annotation for the remaining functionality, so you have to use the @Query annotation and supply SQLite queries.
 - With Flow as the return type, you receive notification whenever the data in the database changes.
-- 
+
+## Creating a Database Instance 
+- companion object, which allows access to the methods to create or get the database and uses the class name as the qualifier.
+- Refer to docs
