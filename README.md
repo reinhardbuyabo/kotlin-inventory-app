@@ -47,3 +47,9 @@ Getting Started
 ## Creating a Database Instance 
 - companion object, which allows access to the methods to create or get the database and uses the class name as the qualifier.
 - Refer to docs
+
+## Implementing The Repository
+- ItemsRepository and Offline ItemsRepository.
+- Implement AppContainer Class.
+- Refer to docs.
+- 
