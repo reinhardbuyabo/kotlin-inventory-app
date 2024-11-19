@@ -52,4 +52,3 @@ Getting Started
 - ItemsRepository and Offline ItemsRepository.
 - Implement AppContainer Class.
 - Refer to docs.
-- 
